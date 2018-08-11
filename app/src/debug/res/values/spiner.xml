@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Spiner_Order">
+        <item>Ordenar Por Cercania</item>
+        <item>Ordenar Por Fecha</item>
+    </string-array>
+</resources>
